@@ -1,6 +1,6 @@
 aa
 編集１ gudetamaでの編集１
-編集２
+編集２　gudetamaでの編集２
 編集３
 masterでの編集１
 masterでの編集２
